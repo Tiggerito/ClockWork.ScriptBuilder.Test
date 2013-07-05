@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\Tony\My Documents\My SubVersion Projects\ClockWork\DotNet\Trunk\ClockWork.ScriptBuilder.Test\ClockWork.ScriptBuilder.Test.csproj" total="1" failures="0" not-run="0" date="2008-08-27" time="18:55:48">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.832" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Documents and Settings\Tony\My Documents\My SubVersion Projects\ClockWork\DotNet\Trunk\ClockWork.ScriptBuilder.Test" machine-name="TONY1" user="Tony" user-domain="TONY1" />
+  <culture-info current-culture="en-AU" current-uiculture="en-US" />
+  <test-suite name="C:\Documents and Settings\Tony\My Documents\My SubVersion Projects\ClockWork\DotNet\Trunk\ClockWork.ScriptBuilder.Test\ClockWork.ScriptBuilder.Test.csproj" success="True" time="0.516" asserts="0">
+    <results>
+      <test-suite name="C:\Documents and Settings\Tony\My Documents\My SubVersion Projects\ClockWork\DotNet\Trunk\ClockWork.ScriptBuilder.Test\bin\Debug\ClockWork.ScriptBuilder.Test.dll" success="True" time="0.516" asserts="0">
+        <results>
+          <test-suite name="ClockWork" success="True" time="0.516" asserts="0">
+            <results>
+              <test-suite name="ScriptBuilder" success="True" time="0.516" asserts="0">
+                <results>
+                  <test-suite name="Test" success="True" time="0.516" asserts="0">
+                    <results>
+                      <test-suite name="JavaScriptTests" success="True" time="0.500" asserts="0">
+                        <results>
+                          <test-case name="ClockWork.ScriptBuilder.Test.JavaScriptTests.Compressed" executed="True" success="True" time="0.484" asserts="0" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

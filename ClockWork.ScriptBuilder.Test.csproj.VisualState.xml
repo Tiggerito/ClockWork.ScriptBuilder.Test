@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Documents and Settings\Tony\My Documents\My SubVersion Projects\ClockWork\DotNet\Trunk\ClockWork.ScriptBuilder.Test\ClockWork.ScriptBuilder.Test.csproj</TopNode>
+  <SelectedNode>[0-1006]ClockWork.ScriptBuilder.Test.JavaScriptTests.Compressed</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Documents and Settings\Tony\My Documents\My SubVersion Projects\ClockWork\DotNet\Trunk\ClockWork.ScriptBuilder.Test\ClockWork.ScriptBuilder.Test.csproj" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1019]C:\Documents and Settings\Tony\My Documents\My SubVersion Projects\ClockWork\DotNet\Trunk\ClockWork.ScriptBuilder.Test\bin\Debug\ClockWork.ScriptBuilder.Test.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1020]ClockWork" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1021]ClockWork.ScriptBuilder" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1022]ClockWork.ScriptBuilder.Test" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1001]ClockWork.ScriptBuilder.Test.JavaScriptTests" Expanded="true">
+                          <Nodes>
+                            <Node UniqueName="[0-1006]ClockWork.ScriptBuilder.Test.JavaScriptTests.Compressed" />
+                            <Node UniqueName="[0-1005]ClockWork.ScriptBuilder.Test.JavaScriptTests.MultiLineQuote" />
+                            <Node UniqueName="[0-1003]ClockWork.ScriptBuilder.Test.JavaScriptTests.QuickWriteJs" />
+                            <Node UniqueName="[0-1002]ClockWork.ScriptBuilder.Test.JavaScriptTests.Types" />
+                            <Node UniqueName="[0-1004]ClockWork.ScriptBuilder.Test.JavaScriptTests.Xml" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1013]ClockWork.ScriptBuilder.Test.ScriptTests" Expanded="true">
+                          <Nodes>
+                            <Node UniqueName="[0-1017]ClockWork.ScriptBuilder.Test.ScriptTests.Article1" />
+                            <Node UniqueName="[0-1018]ClockWork.ScriptBuilder.Test.ScriptTests.Article2" />
+                            <Node UniqueName="[0-1016]ClockWork.ScriptBuilder.Test.ScriptTests.FullWrite" />
+                            <Node UniqueName="[0-1015]ClockWork.ScriptBuilder.Test.ScriptTests.QuickWrite" />
+                            <Node UniqueName="[0-1014]ClockWork.ScriptBuilder.Test.ScriptTests.Types" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1007]ClockWork.ScriptBuilder.Test.XmlTests" Expanded="true">
+                          <Nodes>
+                            <Node UniqueName="[0-1011]ClockWork.ScriptBuilder.Test.XmlTests.JavascriptCData" />
+                            <Node UniqueName="[0-1012]ClockWork.ScriptBuilder.Test.XmlTests.JavascriptText" />
+                            <Node UniqueName="[0-1010]ClockWork.ScriptBuilder.Test.XmlTests.MultiLineCData" />
+                            <Node UniqueName="[0-1009]ClockWork.ScriptBuilder.Test.XmlTests.Test1" />
+                            <Node UniqueName="[0-1008]ClockWork.ScriptBuilder.Test.XmlTests.Types" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>
